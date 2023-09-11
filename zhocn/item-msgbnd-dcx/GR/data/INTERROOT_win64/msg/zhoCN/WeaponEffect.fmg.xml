@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="100">%null%</text>
+<text id="1000">防御之后，还是会受到一定伤害</text>
+<text id="1001">打倒敌人时，能恢复血量</text>
+<text id="1002">打倒敌人时，能恢复专注值</text>
+<text id="1003">攻击命中时，能恢复血量</text>
+<text id="1004">攻击命中时，能恢复专注值</text>
+<text id="1005">&lt;font color="#f9e6b9"&gt;能缓慢恢复血量&lt;/font&gt;</text>
+<text id="1006">能缓慢恢复专注值</text>
+<text id="1007">能提升精力的恢复速度</text>
+<text id="1008">攻击越是连续，越能提升攻击力</text>
+<text id="1009">会受到自我损伤</text>
+<text id="1010">能减退野兽的攻击欲望</text>
+<text id="1011">%null%</text>
+<text id="1012">能提升物理属性魔法的威力</text>
+<text id="1013">%null%</text>
+<text id="1014">能提升魔力属性魔法的威力</text>
+<text id="1015">能提升雷属性魔法的威力</text>
+<text id="1016">能提升圣属性魔法的威力</text>
+<text id="1017">能扩展强化类、恢复类魔法的范围</text>
+<text id="1018">能使用辉石魔法或祷告等等</text>
+<text id="1019">能够作为施展辉石魔法用的触媒</text>
+<text id="1020">能够作为执行祷告用的触媒</text>
+<text id="1021">连续攻击能恢复血量</text>
+<text id="1022">连续攻击能恢复专注值</text>
+<text id="1030">&lt;font color="#ada184"&gt;攻击命中时，能提升攻击力，但降低防御力&lt;/font&gt;</text>
+<text id="1031">&lt;font color="#5d7ad9"&gt;未被敌人发现时，能提升攻击力&lt;/font&gt;</text>
+<text id="1032">&lt;font color="#f48c25"&gt;攻击命中时，能燃烧敌人&lt;/font&gt;</text>
+<text id="1033">&lt;font color="#a6a185"&gt;攻击命中时，能降低敌人的攻击力&lt;/font&gt;</text>
+<text id="1034">&lt;font color="#fffa91"&gt;能提升精力的恢复速度&lt;/font&gt;</text>
+<text id="1035">&lt;font color="#75d2c9"&gt;能缓慢恢复专注值&lt;/font&gt;</text>
+<text id="1036">&lt;font color="#f45618"&gt;能提升异常状态量表的消退速度&lt;/font&gt;</text>
+<text id="1037">&lt;font color="#dea7fe"&gt;能提升对悬空敌人的攻击力&lt;/font&gt;</text>
+<text id="1038">&lt;font color="#eac678"&gt;能提升对死诞者的攻击力&lt;/font&gt;</text>
+<text id="1039">&lt;font color="#ff7979"&gt;能提升对龙的攻击力&lt;/font&gt;</text>
+<text id="1040">&lt;font color="#729397"&gt;能提升对神性敌人的攻击力&lt;/font&gt;</text>
+<text id="1041">&lt;font color="#9dd7fb"&gt;能提升对石状敌人的攻击力&lt;/font&gt;</text>
+<text id="1042">&lt;font color="#ada184"&gt;能提升对野兽的攻击力&lt;/font&gt;</text>
+<text id="1043">&lt;font color="#f5664a"&gt;能提升对陷入冻伤敌人的攻击力&lt;/font&gt;</text>
+<text id="1044">&lt;font color="#8fbdbe"&gt;能提升削韧&lt;/font&gt;</text>
+<text id="1045">&lt;font color="#b7e2e1"&gt;能降低攻击消耗的精力&lt;/font&gt;</text>
+<text id="1046">自身会累积出血量表</text>
+<text id="1047">攻击命中时，能向敌人施加命定之死</text>
+<text id="1048">攻击命中时，能恢复血量</text>
+<text id="1049">配合猎犬长牙，能减少使用战技消耗的专注值</text>
+<text id="1050">配合贵腐骑士武器，能减少使用战技消耗的专注值</text>
+<text id="1051">能强化结晶人的魔法，并为其附上猩红腐败</text>
+<text id="1052">能提升抗死度，以及死亡量表的消退速度</text>
+<text id="1053">攻击命中时，能消耗敌人的精力</text>
+<text id="1054">A</text>
+<text id="1055">A</text>
+<text id="1056">A</text>
+<text id="1057">A</text>
+<text id="1058">A</text>
+<text id="1059">A</text>
+<text id="1060">A</text>
+<text id="1061">A</text>
+<text id="1062">A</text>
+<text id="1063">A</text>
+<text id="1064">A</text>
+<text id="1065">A</text>
+<text id="1066">A</text>
+<text id="1067">A</text>
+<text id="1068">A</text>
+<text id="1069">A</text>
+<text id="1070">A</text>
+<text id="1071">A</text>
+<text id="1072">A</text>
+<text id="1073">A</text>
+<text id="1074">A</text>
+<text id="1075">A</text>
+<text id="1077">A</text>
+<text id="1078">A</text>
+<text id="1079">A</text>
+<text id="1080">A</text>
+<text id="1081">A</text>
+<text id="1082">A</text>
+<text id="1083">A</text>
+<text id="1084">A</text>
+<text id="1085">A</text>
+<text id="1086">A</text>
+<text id="1087">A</text>
+<text id="1088">A</text>
+<text id="1089">A</text>
+<text id="1090">A</text>
+<text id="1100">能强化结晶人的魔法</text>
+<text id="1101">能强化重力的魔法</text>
+<text id="1102">能强化荆棘的魔法</text>
+<text id="1103">能强化死亡的魔法</text>
+<text id="1104">能强化满月的魔法</text>
+<text id="1105">能强化挖石的魔法</text>
+<text id="1106">能强化卡利亚的魔法</text>
+<text id="1107">能强化冰冷的魔法</text>
+<text id="1108">能强化亚兹勒的起源魔法</text>
+<text id="1109">能强化卢瑟特的起源魔法</text>
+<text id="1110">能强化隐形的魔法</text>
+<text id="1111">能强化巨人火焰的祷告</text>
+<text id="1112">能强化黄金律法原理主义的祷告</text>
+<text id="1113">能强化野兽的祷告</text>
+<text id="1114">能强化王都古龙信仰的祷告</text>
+<text id="1115">能强化龙飨的祷告</text>
+<text id="1116">能强化癫火的祷告</text>
+<text id="1117">能强化熔岩的魔法</text>
+<text id="1118">能强化猎神的祷告</text>
+<text id="1119">能强化熔炉的祷告</text>
+<text id="1120">能强化黄金树的祷告</text>
+<text id="6400">些微累积中毒量表（&lt;?poisonATKpwr?&gt;）</text>
+<text id="6401">&lt;font color="#6fae6d"&gt;累积中毒量表&lt;/font&gt;（&lt;?poisonATKpwr?&gt;）</text>
+<text id="6402">大幅累积中毒量表（&lt;?poisonATKpwr?&gt;）</text>
+<text id="6403">%null%</text>
+<text id="6404">%null%</text>
+<text id="6405">%null%</text>
+<text id="6406">%null%</text>
+<text id="6407">%null%</text>
+<text id="6408">%null%</text>
+<text id="6409">%null%</text>
+<text id="6410">累积强烈中毒量表（&lt;?poisonATKpwr?&gt;）</text>
+<text id="6450">些微累积猩红腐败量表（&lt;?diseaseATKpwr?&gt;）</text>
+<text id="6451">&lt;font color="#c08585"&gt;累积猩红腐败量表&lt;/font&gt;（&lt;?diseaseATKpwr?&gt;）</text>
+<text id="6452">大幅累积猩红腐败量表（&lt;?diseaseATKpwr?&gt;）</text>
+<text id="6500">些微累积出血量表（&lt;?bleedATKpwr?&gt;）</text>
+<text id="6501">&lt;font color="#c84343"&gt;累积出血量表&lt;/font&gt;（&lt;?bleedATKpwr?&gt;）</text>
+<text id="6502">大幅累积出血量表（&lt;?bleedATKpwr?&gt;）</text>
+<text id="6503">%null%</text>
+<text id="6504">%null%</text>
+<text id="6505">%null%</text>
+<text id="6506">%null%</text>
+<text id="6507">%null%</text>
+<text id="6508">%null%</text>
+<text id="6509">%null%</text>
+<text id="6510">累积强烈出血量表（&lt;?bleedATKpwr?&gt;）</text>
+<text id="6550">些微累积死亡量表（&lt;?curseATKpwr?&gt;）</text>
+<text id="6551">&lt;font color="#a6a185"&gt;累积死亡量表&lt;/font&gt;（&lt;?curseATKpwr?&gt;）</text>
+<text id="6552">大幅累积死亡量表（&lt;?curseATKpwr?&gt;）</text>
+<text id="6600">些微累积冻伤量表（&lt;?freezeATKpwr?&gt;）</text>
+<text id="6601">&lt;font color="#9dd7fb"&gt;累积冻伤量表&lt;/font&gt;（&lt;?freezeATKpwr?&gt;）</text>
+<text id="6602">大幅累积冻伤量表（&lt;?freezeATKpwr?&gt;）</text>
+<text id="6650">些微累积催眠量表（&lt;?sleepATKpwr?&gt;）</text>
+<text id="6651">&lt;font color="#a99ee3"&gt;累积催眠量表&lt;/font&gt;（&lt;?sleepATKpwr?&gt;）</text>
+<text id="6652">大幅累积催眠量表（&lt;?sleepATKpwr?&gt;）</text>
+<text id="6700">些微累积发狂量表（&lt;?madnessATKpwr?&gt;）</text>
+<text id="6701">&lt;font color="#f3ad5a"&gt;累积发狂量表&lt;/font&gt;（&lt;?madnessATKpwr?&gt;）</text>
+<text id="6702">大幅累积发狂量表（&lt;?madnessATKpwr?&gt;）</text>
+</entries>
+</fmg>
